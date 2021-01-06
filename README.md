@@ -1,1 +1,1 @@
-# Lotto-app
+# Email sending app
